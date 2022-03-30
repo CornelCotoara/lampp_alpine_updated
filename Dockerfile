@@ -107,4 +107,4 @@ WORKDIR  /var/www/html/
 EXPOSE 80
 EXPOSE 443
 
-CMD /usr/bin/apachectl  -D   FOREGROUND
+CMD /usr/sbin/apachectl  -D   FOREGROUND &
