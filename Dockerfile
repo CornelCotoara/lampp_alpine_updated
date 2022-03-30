@@ -67,7 +67,7 @@ RUN apk add --no-cache bash \
 				php8-cgi \
 				php8-ctype \
 				php8-pecl-mcrypt \
-#				php8-wddx \
+				php8-pecl-wddx \
 				php8-bcmath \
 				php8-calendar \
 				php8-tidy \
